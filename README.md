@@ -1,7 +1,4 @@
 # sqlalchemy-challenge
-Module 10 Homework
-
-
 <h1>Instructions</h1>
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
@@ -94,5 +91,6 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 - Use the Flask jsonify function to convert your API data to a valid JSON response object.
 
 <h2>Resources</h2>
+
 - Tutor session with Justin Moore
 - Xpert Learning Assistant
