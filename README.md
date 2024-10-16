@@ -92,3 +92,7 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 - Join the station and measurement tables for some of the queries.
 
 - Use the Flask jsonify function to convert your API data to a valid JSON response object.
+
+<h2>Resources</h2>
+- Tutor session with Justin Moore
+- Xpert Learning Assistant
